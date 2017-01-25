@@ -4,7 +4,6 @@ Supports [Domotiga](https://domotiga.nl) devices on [HomeBridge](https://github.
 
 
 Newer version using API 2.1: [homebridge-domotiga](https://github.com/Samfox2/homebridge-domotiga)
-
 It is strongly advised that you switch to the newer version. No new development will be done on this version.
 
 
