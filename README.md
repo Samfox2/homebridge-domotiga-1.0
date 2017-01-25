@@ -1,11 +1,8 @@
 # homebridge-domotiga
 
-[![npm version](https://badge.fury.io/js/homebridge-domotiga.svg)](https://badge.fury.io/js/homebridge-domotiga)
-[![Dependency Status](https://gemnasium.com/badges/github.com/Samfox2/homebridge-domotiga.svg)](https://gemnasium.com/github.com/Samfox2/homebridge-domotiga)
-
 Supports [Domotiga](https://domotiga.nl) devices on [HomeBridge](https://github.com/nfarina/homebridge) platform.
 
-The latest version (work in progress) supports following (primary) services:
+The latest version supports following (primary) services:
 
 - ```TemperatureSensor``` (temperature)
 - ```HumiditySensor``` (humidity) 
@@ -32,7 +29,7 @@ Intrigued? Missing any domotiga devices? Love HomeKit and Homebridge? - Feel fre
 # Installation
 
 1. Install homebridge using:  ```npm install -g homebridge```
-2. Install this plugin using: ```npm install -g git+https://github.com/Samfox2/homebridge-domotiga.git``` or ```npm install -g homebridge-domotiga```
+2. Install this plugin using: ```npm install -g git+https://github.com/Samfox2/homebridge-domotiga-1.0```
 3. Update your configuration file. See sample-config.json in this repository for a sample. 
 
 # Configuration
