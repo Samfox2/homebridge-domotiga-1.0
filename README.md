@@ -1,4 +1,4 @@
-# homebridge-domotiga
+# homebridge-domotiga (1.0 deprecated)
 
 Supports [Domotiga](https://domotiga.nl) devices on [HomeBridge](https://github.com/nfarina/homebridge) platform.
 
